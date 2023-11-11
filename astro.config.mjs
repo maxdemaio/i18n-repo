@@ -5,7 +5,7 @@ export default defineConfig({
   experimental: {
     i18n: {
       defaultLocale: "en",
-      locales: ["en", "es", "pt-br"]
+      locales: ["en", "fr"]
     }
   }
 })
